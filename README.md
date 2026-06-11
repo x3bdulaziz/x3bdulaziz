@@ -3,4 +3,3 @@
 
 
 
-*Winners never quit, and quitters never win
