@@ -2,7 +2,7 @@
 ## Junior Penetration Tester | CompTIA Security+ 
 
 
-[Hackerone](https://hackerone.com/x3bdulaziz)
-
+[Hackerone Profile](https://hackerone.com/x3bdulaziz)
+[Tryhackme Profile](https://tryhackme.com/p/x3bdulaziz)
 
 
